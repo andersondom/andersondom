@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/anderson-domingos/)
 
 ## **Sobre mim**
-Sou profissional da área de Tecnologia da Informação, atuando há 13 com desenvolvimento de aplicações ASP.NET, gestão de projetos. Busco conexões para novas oportunidades de network.
+Sou profissional da área de Tecnologia da Informação, atuando há 13 com desenvolvimento de aplicações ASP.NET e gestão de projetos. Neste repositório estarei disponibilizando aplicações de exemplo e estudos realizados.
 
 ## **Habilidades**
 *.NET FRAMEWORK - SQL SERVER - C#*
