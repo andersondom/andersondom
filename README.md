@@ -4,7 +4,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/anderson-domingos/)
 
 ## **Sobre mim**
-Sou profissional da área de Tecnologia da Informação, atuando há 13 com desenvolvimento de aplicações ASP.NET e gestão de projetos. Neste repositório estarei disponibilizando aplicações de exemplo e estudos realizados.
+
+```
+Sou profissional da área de Tecnologia da Informação, atuando há 13 com desenvolvimento
+de aplicações ASP.NET e gestão de projetos. Neste repositório estarei disponibilizando
+aplicações de exemplo e estudos realizados.
+```
 
 ## **Habilidades**
 *.Net Framework - SqlServer - C#*
@@ -15,10 +20,10 @@ Sou profissional da área de Tecnologia da Informação, atuando há 13 com dese
 <div style="display: inline_block"><br>
   <img align="center" alt="Andoming-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Andoming-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Andoming-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Andoming-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andoming-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Andoming-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
+  <!--<img align="center" alt="Andoming-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->  
+  <img align="center" alt="Andoming-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
 
 ## **Minhas Contribuições**
