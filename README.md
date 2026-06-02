@@ -17,7 +17,9 @@ aplicações de exemplo e estudos realizados.
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andersondom&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andersondom&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andersondom&layout=compact&theme=tokyonight)
 
 
 <div style="display: inline_block"><br>
