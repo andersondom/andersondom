@@ -19,7 +19,7 @@ aplicações de exemplo e estudos realizados.
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andersondom&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andersondom&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andersondom&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css)
 
 
 <div style="display: inline_block"><br>
