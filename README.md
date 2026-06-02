@@ -15,8 +15,9 @@ aplicações de exemplo e estudos realizados.
 *.Net Framework - SqlServer - C#*
 
 
-## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=andersondom&theme=algolia&show_icons=true)](https://github.com/andersondom) [![Anderson Domingos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=andersondom&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/andersondom)
+## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andersondom&show_icons=true&theme=dark)
 
 
 <div style="display: inline_block"><br>
