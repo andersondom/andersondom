@@ -18,7 +18,7 @@ aplicações de exemplo e estudos realizados.
 ## 📊 Estatísticas
 
 <p align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andersondom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+  ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andersondom&show_icons=true&theme=tokyonight)
 </p>
 
 
