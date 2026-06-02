@@ -6,7 +6,7 @@
 ## **Sobre mim**
 
 ```
-Sou profissional da área de Tecnologia da Informação, atuando há 13 com desenvolvimento
+Sou profissional da área de Tecnologia da Informação, atuando há 17 anos com desenvolvimento
 de aplicações ASP.NET e gestão de projetos. Neste repositório estarei disponibilizando
 aplicações de exemplo e estudos realizados.
 ```
