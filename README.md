@@ -12,7 +12,7 @@ aplicações de exemplo e estudos realizados.
 ```
 
 ## **Habilidades**
-*.Net Framework - SqlServer - C#* - Kotlin - Python
+*.Net Framework - SqlServer - C#*
 
 
 ## GitHub Stats
