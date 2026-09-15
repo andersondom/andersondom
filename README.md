@@ -24,7 +24,9 @@
 
 <br>
 
-## 📊 GitHub Analytics
+<img src="./assets/analytics.svg" width="100%" alt="GitHub Analytics">
+
+<br>
 
 <div align="center">
 
@@ -59,7 +61,9 @@
 
 <br>
 
-## 🔥 Contribuições
+<img src="./assets/contributions.svg" width="100%" alt="Contribuições no GitHub">
+
+<br>
 
 <div align="center">
 
