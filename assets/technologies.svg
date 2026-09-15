@@ -1,12 +1,282 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
-<defs><linearGradient id="b" x1="0" y1="0" x2="1200" y2="300"><stop stop-color="#030712"/><stop offset="1" stop-color="#0B1026"/></linearGradient><linearGradient id="t"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient></defs>
-<rect width="1200" height="300" rx="25" fill="url(#b)" stroke="#312E81"/>
-<text x="52" y="62" fill="url(#t)" font-family="Segoe UI,Arial" font-size="30" font-weight="700">02. TECH STACK</text>
-<g font-family="Segoe UI,Arial" text-anchor="middle">
-<g><rect x="45" y="105" width="165" height="125" rx="18" fill="#071426" stroke="#2563EB"/><text x="127" y="162" fill="#A78BFA" font-size="30" font-weight="800">C#</text><text x="127" y="198" fill="#CBD5E1" font-size="16">BACKEND</text></g>
-<g><rect x="234" y="105" width="165" height="125" rx="18" fill="#071426" stroke="#4F46E5"/><text x="316" y="162" fill="#C4B5FD" font-size="27" font-weight="800">.NET</text><text x="316" y="198" fill="#CBD5E1" font-size="16">FRAMEWORK</text></g>
-<g><rect x="423" y="105" width="165" height="125" rx="18" fill="#071426" stroke="#06B6D4"/><text x="505" y="162" fill="#67E8F9" font-size="25" font-weight="800">SQL</text><text x="505" y="198" fill="#CBD5E1" font-size="16">SERVER</text></g>
-<g><rect x="612" y="105" width="165" height="125" rx="18" fill="#071426" stroke="#EAB308"/><text x="694" y="162" fill="#FDE047" font-size="26" font-weight="800">JS</text><text x="694" y="198" fill="#CBD5E1" font-size="16">JAVASCRIPT</text></g>
-<g><rect x="801" y="105" width="165" height="125" rx="18" fill="#071426" stroke="#F97316"/><text x="883" y="162" fill="#FDBA74" font-size="25" font-weight="800">HTML</text><text x="883" y="198" fill="#CBD5E1" font-size="16">WEB</text></g>
-<g><rect x="990" y="105" width="165" height="125" rx="18" fill="#071426" stroke="#3B82F6"/><text x="1072" y="162" fill="#93C5FD" font-size="25" font-weight="800">CSS</text><text x="1072" y="198" fill="#CBD5E1" font-size="16">DESIGN</text></g>
-</g></svg>
+<svg width="1200" height="390" viewBox="0 0 1200 390"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+
+    <linearGradient id="titleGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- BACKGROUND -->
+
+  <rect
+    x="1"
+    y="1"
+    width="1198"
+    height="388"
+    rx="22"
+    fill="#020617"
+    stroke="#172554"
+    stroke-width="2"
+  />
+
+  <!-- TÍTULO -->
+
+  <text
+    x="52"
+    y="58"
+    fill="#22d3ee"
+    font-family="Arial, sans-serif"
+    font-size="25"
+    font-weight="bold">
+    02.
+    <tspan fill="#60a5fa"> TECH </tspan>
+    <tspan fill="#8b5cf6">STACK</tspan>
+  </text>
+
+  <text
+    x="52"
+    y="86"
+    fill="#94a3b8"
+    font-family="Arial, sans-serif"
+    font-size="13"
+    letter-spacing="2">
+    TECNOLOGIAS &amp; FERRAMENTAS
+  </text>
+
+  <!-- BACKEND -->
+
+  <rect
+    x="52"
+    y="120"
+    width="340"
+    height="165"
+    rx="18"
+    fill="#07111f"
+    stroke="#164e63"
+    stroke-width="1.5"
+  />
+
+  <text
+    x="78"
+    y="153"
+    fill="#22d3ee"
+    font-family="Arial, sans-serif"
+    font-size="11"
+    font-weight="bold"
+    letter-spacing="2">
+    01 / BACKEND
+  </text>
+
+  <text
+    x="78"
+    y="202"
+    fill="#f8fafc"
+    font-family="Arial, sans-serif"
+    font-size="28"
+    font-weight="bold">
+    C#
+  </text>
+
+  <text
+    x="78"
+    y="232"
+    fill="#94a3b8"
+    font-family="Arial, sans-serif"
+    font-size="13">
+    Linguagem
+  </text>
+
+  <rect
+    x="185"
+    y="180"
+    width="1"
+    height="70"
+    fill="#164e63"
+  />
+
+  <text
+    x="215"
+    y="202"
+    fill="#7dd3fc"
+    font-family="Arial, sans-serif"
+    font-size="28"
+    font-weight="bold">
+    .NET
+  </text>
+
+  <text
+    x="215"
+    y="232"
+    fill="#94a3b8"
+    font-family="Arial, sans-serif"
+    font-size="13">
+    Plataforma
+  </text>
+
+  <!-- DADOS -->
+
+  <rect
+    x="430"
+    y="120"
+    width="340"
+    height="165"
+    rx="18"
+    fill="#07111f"
+    stroke="#1e3a8a"
+    stroke-width="1.5"
+  />
+
+  <text
+    x="456"
+    y="153"
+    fill="#60a5fa"
+    font-family="Arial, sans-serif"
+    font-size="11"
+    font-weight="bold"
+    letter-spacing="2">
+    02 / DADOS
+  </text>
+
+  <text
+    x="456"
+    y="207"
+    fill="#f8fafc"
+    font-family="Arial, sans-serif"
+    font-size="27"
+    font-weight="bold">
+    SQL Server
+  </text>
+
+  <text
+    x="456"
+    y="238"
+    fill="#94a3b8"
+    font-family="Arial, sans-serif"
+    font-size="13">
+    Banco de Dados Relacional
+  </text>
+
+  <!-- FRONTEND -->
+
+  <rect
+    x="808"
+    y="120"
+    width="340"
+    height="165"
+    rx="18"
+    fill="#07111f"
+    stroke="#4c1d95"
+    stroke-width="1.5"
+  />
+
+  <text
+    x="834"
+    y="153"
+    fill="#a78bfa"
+    font-family="Arial, sans-serif"
+    font-size="11"
+    font-weight="bold"
+    letter-spacing="2">
+    03 / FRONTEND
+  </text>
+
+  <text
+    x="834"
+    y="202"
+    fill="#f8fafc"
+    font-family="Arial, sans-serif"
+    font-size="23"
+    font-weight="bold">
+    JavaScript
+  </text>
+
+  <text
+    x="834"
+    y="236"
+    fill="#7dd3fc"
+    font-family="Arial, sans-serif"
+    font-size="17"
+    font-weight="bold">
+    HTML5
+  </text>
+
+  <text
+    x="925"
+    y="236"
+    fill="#64748b"
+    font-family="Arial, sans-serif"
+    font-size="16">
+    •
+  </text>
+
+  <text
+    x="950"
+    y="236"
+    fill="#a78bfa"
+    font-family="Arial, sans-serif"
+    font-size="17"
+    font-weight="bold">
+    CSS3
+  </text>
+
+  <!-- TOOLS -->
+
+  <text
+    x="52"
+    y="329"
+    fill="#22d3ee"
+    font-family="Arial, sans-serif"
+    font-size="11"
+    font-weight="bold"
+    letter-spacing="2">
+    TOOLS
+  </text>
+
+  <rect
+    x="118"
+    y="316"
+    width="1030"
+    height="1"
+    fill="url(#border)"
+    opacity="0.45"
+  />
+
+  <text
+    x="600"
+    y="358"
+    text-anchor="middle"
+    fill="#f8fafc"
+    font-family="Arial, sans-serif"
+    font-size="15"
+    font-weight="bold"
+    letter-spacing="1">
+    Git
+    <tspan fill="#22d3ee">  •  </tspan>
+    GitHub
+    <tspan fill="#3b82f6">  •  </tspan>
+    VS Code
+  </text>
+
+  <!-- ACCENTS -->
+
+  <circle cx="1120" cy="45" r="4" fill="#8b5cf6" filter="url(#glow)"/>
+  <circle cx="1100" cy="45" r="3" fill="#3b82f6"/>
+  <circle cx="1082" cy="45" r="2" fill="#22d3ee"/>
+
+</svg>
