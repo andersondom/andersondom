@@ -14,7 +14,7 @@
     </linearGradient>
   </defs>
 
-  <!-- Background -->
+  <!-- BACKGROUND -->
 
   <rect
     x="1"
@@ -27,7 +27,7 @@
     stroke-width="2"
   />
 
-  <!-- Section title -->
+  <!-- 01 · SOBRE MIM -->
 
   <text
     x="52"
@@ -41,7 +41,7 @@
     <tspan fill="#8b5cf6">MIM</tspan>
   </text>
 
-  <!-- Professional description -->
+  <!-- TEXTO PROFISSIONAL -->
 
   <text
     x="52"
@@ -55,28 +55,44 @@
     </tspan>
 
     <tspan x="52" dy="27">
-      atuando no desenvolvimento de soluções com .NET, C# e ASP.NET,
+      atuando no desenvolvimento de aplicações e soluções corporativas,
     </tspan>
 
     <tspan x="52" dy="27">
-      além de experiência em gestão de projetos e ambientes de tecnologia.
+      banco de dados, gestão de projetos e ambientes de tecnologia.
     </tspan>
 
-    <tspan x="52" dy="38" fill="#7dd3fc" font-weight="bold">
+    <tspan
+      x="52"
+      dy="39"
+      fill="#7dd3fc"
+      font-weight="bold">
       Instrutor de Educação Profissional no SENAC/SE,
     </tspan>
 
-    <tspan x="52" dy="27" fill="#f8fafc" font-weight="normal">
-      contribuindo para a formação de profissionais na área de Tecnologia da Informação.
+    <tspan
+      x="52"
+      dy="27"
+      fill="#f8fafc"
+      font-weight="normal">
+      compartilhando conhecimento e contribuindo para a formação
+    </tspan>
+
+    <tspan
+      x="52"
+      dy="27"
+      fill="#f8fafc"
+      font-weight="normal">
+      de novos profissionais na área de Tecnologia da Informação.
     </tspan>
 
   </text>
 
-  <!-- Focus -->
+  <!-- FOCO PROFISSIONAL -->
 
   <text
     x="52"
-    y="290"
+    y="294"
     fill="#22d3ee"
     font-family="Arial, sans-serif"
     font-size="12"
@@ -87,20 +103,35 @@
 
   <text
     x="52"
-    y="318"
+    y="322"
     fill="#f8fafc"
     font-family="Arial, sans-serif"
-    font-size="14">
+    font-size="14"
+    font-weight="bold">
+
     Desenvolvimento
-    <tspan fill="#22d3ee"> • </tspan>
+
+    <tspan fill="#22d3ee">
+      •
+    </tspan>
+
     Gestão de Projetos
-    <tspan fill="#3b82f6"> • </tspan>
+
+    <tspan fill="#3b82f6">
+      •
+    </tspan>
+
     Educação Profissional
-    <tspan fill="#8b5cf6"> • </tspan>
+
+    <tspan fill="#8b5cf6">
+      •
+    </tspan>
+
     Tecnologia
+
   </text>
 
-  <!-- Experience card -->
+  <!-- CARD DE EXPERIÊNCIA -->
 
   <rect
     x="870"
@@ -113,7 +144,7 @@
     stroke-width="2"
   />
 
-  <!-- Years -->
+  <!-- 17+ -->
 
   <text
     x="1000"
@@ -133,11 +164,12 @@
     fill="#f8fafc"
     font-family="Arial, sans-serif"
     font-size="12"
-    font-weight="bold">
+    font-weight="bold"
+    letter-spacing="1">
     ANOS DE EXPERIÊNCIA
   </text>
 
-  <!-- Divider -->
+  <!-- DIVISOR -->
 
   <rect
     x="920"
@@ -148,7 +180,7 @@
     opacity="0.7"
   />
 
-  <!-- Three pillars -->
+  <!-- PILARES -->
 
   <text
     x="1000"
@@ -157,29 +189,32 @@
     fill="#22d3ee"
     font-family="Arial, sans-serif"
     font-size="13"
-    font-weight="bold">
-    DEV
+    font-weight="bold"
+    letter-spacing="2">
+    DESENVOLVIMENTO
   </text>
 
   <text
     x="1000"
-    y="230"
+    y="232"
     text-anchor="middle"
     fill="#60a5fa"
     font-family="Arial, sans-serif"
     font-size="13"
-    font-weight="bold">
+    font-weight="bold"
+    letter-spacing="2">
     GESTÃO
   </text>
 
   <text
     x="1000"
-    y="255"
+    y="259"
     text-anchor="middle"
     fill="#a78bfa"
     font-family="Arial, sans-serif"
     font-size="13"
-    font-weight="bold">
+    font-weight="bold"
+    letter-spacing="2">
     EDUCAÇÃO
   </text>
 
