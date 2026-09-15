@@ -5,13 +5,12 @@
 <br>
 
 <a href="https://www.linkedin.com/in/anderson-domingos/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="./assets/linkedin.svg" width="230" alt="LinkedIn de Anderson Domingos">
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/andersondom?tab=repositories">
-  <img src="https://img.shields.io/badge/Projetos-111827?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="Projetos">
+  <img src="./assets/projects.svg" width="230" alt="Projetos de Anderson Domingos">
 </a>
-
 </div>
 
 <br>
