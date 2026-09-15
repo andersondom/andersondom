@@ -1,4 +1,4 @@
-<svg width="1200" height="310" viewBox="0 0 1200 310"
+<svg width="1200" height="350" viewBox="0 0 1200 350"
      xmlns="http://www.w3.org/2000/svg">
 
   <defs>
@@ -20,7 +20,7 @@
     x="1"
     y="1"
     width="1198"
-    height="308"
+    height="348"
     rx="22"
     fill="#020617"
     stroke="#172554"
@@ -31,7 +31,7 @@
 
   <text
     x="52"
-    y="62"
+    y="60"
     fill="#22d3ee"
     font-family="Arial, sans-serif"
     font-size="25"
@@ -41,53 +41,63 @@
     <tspan fill="#8b5cf6">MIM</tspan>
   </text>
 
-  <!-- Main description -->
+  <!-- Professional description -->
 
   <text
     x="52"
-    y="112"
+    y="108"
     fill="#f8fafc"
     font-family="Arial, sans-serif"
-    font-size="17">
+    font-size="16">
+
     <tspan x="52" dy="0">
       Profissional de Tecnologia da Informação com mais de 17 anos de experiência,
     </tspan>
 
-    <tspan x="52" dy="29">
+    <tspan x="52" dy="27">
       atuando no desenvolvimento de soluções com .NET, C# e ASP.NET,
     </tspan>
 
-    <tspan x="52" dy="29">
+    <tspan x="52" dy="27">
       além de experiência em gestão de projetos e ambientes de tecnologia.
     </tspan>
+
+    <tspan x="52" dy="38" fill="#7dd3fc" font-weight="bold">
+      Instrutor de Educação Profissional no SENAC/SE,
+    </tspan>
+
+    <tspan x="52" dy="27" fill="#f8fafc" font-weight="normal">
+      contribuindo para a formação de profissionais na área de Tecnologia da Informação.
+    </tspan>
+
   </text>
 
   <!-- Focus -->
 
   <text
     x="52"
-    y="221"
+    y="290"
     fill="#22d3ee"
     font-family="Arial, sans-serif"
-    font-size="13"
+    font-size="12"
     font-weight="bold"
     letter-spacing="2">
-    FOCO
+    FOCO PROFISSIONAL
   </text>
 
   <text
     x="52"
-    y="251"
+    y="318"
     fill="#f8fafc"
     font-family="Arial, sans-serif"
-    font-size="15">
-    Soluções
+    font-size="14">
+    Desenvolvimento
     <tspan fill="#22d3ee"> • </tspan>
-    Resultados
+    Gestão de Projetos
     <tspan fill="#3b82f6"> • </tspan>
-    Aprendizado contínuo
+    Educação Profissional
     <tspan fill="#8b5cf6"> • </tspan>
-    Compartilhamento de conhecimento
+    Tecnologia
   </text>
 
   <!-- Experience card -->
@@ -96,52 +106,81 @@
     x="870"
     y="65"
     width="260"
-    height="180"
+    height="220"
     rx="18"
     fill="#07111f"
     stroke="url(#border)"
     stroke-width="2"
   />
 
+  <!-- Years -->
+
   <text
     x="1000"
-    y="125"
+    y="120"
     text-anchor="middle"
     fill="url(#number)"
     font-family="Arial, sans-serif"
-    font-size="43"
+    font-size="42"
     font-weight="bold">
     17+
   </text>
 
   <text
     x="1000"
-    y="157"
+    y="150"
     text-anchor="middle"
     fill="#f8fafc"
     font-family="Arial, sans-serif"
-    font-size="13"
+    font-size="12"
     font-weight="bold">
     ANOS DE EXPERIÊNCIA
   </text>
 
+  <!-- Divider -->
+
   <rect
-    x="925"
-    y="180"
-    width="150"
+    x="920"
+    y="171"
+    width="160"
     height="1"
     fill="url(#border)"
-    opacity="0.65"
+    opacity="0.7"
   />
+
+  <!-- Three pillars -->
 
   <text
     x="1000"
-    y="210"
+    y="205"
     text-anchor="middle"
     fill="#22d3ee"
     font-family="Arial, sans-serif"
-    font-size="13">
-    .NET • C# • SQL Server
+    font-size="13"
+    font-weight="bold">
+    DEV
+  </text>
+
+  <text
+    x="1000"
+    y="230"
+    text-anchor="middle"
+    fill="#60a5fa"
+    font-family="Arial, sans-serif"
+    font-size="13"
+    font-weight="bold">
+    GESTÃO
+  </text>
+
+  <text
+    x="1000"
+    y="255"
+    text-anchor="middle"
+    fill="#a78bfa"
+    font-family="Arial, sans-serif"
+    font-size="13"
+    font-weight="bold">
+    EDUCAÇÃO
   </text>
 
 </svg>
