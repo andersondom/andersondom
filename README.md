@@ -26,7 +26,31 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Os cards de Analytics serão gerados automaticamente pelo GitHub Actions -->
+<div align="center">
+
+<img
+  src="./profile-summary-card-output/tokyonight/3-stats.svg"
+  height="170"
+  alt="Estatísticas GitHub de Anderson Domingos"
+/>
+
+<img
+  src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+  height="170"
+  alt="Linguagens por repositório"
+/>
+
+<br><br>
+
+<img
+  src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
+  width="98%"
+  alt="Detalhes de atividade no GitHub"
+/>
+
+</div>
+
+<br>
 
 <br>
 
