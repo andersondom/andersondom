@@ -25,18 +25,31 @@
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andersondom&theme=tokyonight" height="165" alt="GitHub Stats">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andersondom&theme=tokyonight" height="165" alt="Linguagens">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andersondom&theme=tokyonight&animation=load"
+  height="170"
+  alt="Estatísticas GitHub de Anderson Domingos"
+/>
 
-<br>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andersondom&theme=tokyonight&exclude=Jupyter%20Notebook&animation=load"
+  height="170"
+  alt="Linguagens utilizadas"
+/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersondom&theme=tokyonight" width="98%" alt="Detalhes do perfil">
+<br><br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersondom&theme=tokyonight&animation=load"
+  width="98%"
+  alt="Atividade GitHub de Anderson Domingos"
+/>
 
 </div>
-
-<br>
 
 ## 🔥 Contribuições
 
