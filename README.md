@@ -88,12 +88,8 @@
 
 <!-- FOOTER -->
 
-<img src="./assets/footer.svg" width="100%" alt="Desenvolver, compartilhar e evoluir">
-
-<div align="center">
-
-### ⭐ Obrigado por visitar meu perfil!
-
-*"Tudo quanto fizerdes, fazei-o de todo o coração." — Colossenses 3:23*
-
-</div>
+<img
+  src="./assets/footer.svg"
+  width="100%"
+  alt="Anderson Domingos — Desenvolver, compartilhar e evoluir"
+/>
