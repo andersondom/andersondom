@@ -28,29 +28,34 @@
 
 <div align="center">
 
-<img
-  src="./profile-summary-card-output/tokyonight/3-stats.svg"
-  height="170"
-  alt="Estatísticas GitHub de Anderson Domingos"
-/>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="./profile-summary-card-output/tokyonight/3-stats.svg"
+        width="100%"
+        alt="Estatísticas GitHub de Anderson Domingos"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+        width="100%"
+        alt="Linguagens por repositório"
+      />
+    </td>
+  </tr>
+</table>
 
-<img
-  src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
-  height="170"
-  alt="Linguagens por repositório"
-/>
-
-<br><br>
+<br>
 
 <img
   src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
-  width="98%"
-  alt="Detalhes de atividade no GitHub"
+  width="100%"
+  alt="Histórico de atividade no GitHub de Anderson Domingos"
 />
 
 </div>
-
-<br>
 
 <br>
 
