@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/anderson-domingos/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
+&nbsp;
 <a href="https://github.com/andersondom?tab=repositories">
   <img src="https://img.shields.io/badge/Projetos-111827?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="Projetos">
 </a>
@@ -16,17 +16,21 @@
 
 <br>
 
-<img src="./assets/about.svg" width="100%" alt="Sobre mim">
+<!-- 01 · SOBRE MIM -->
+
+<img src="./assets/about.svg" width="100%" alt="Sobre Anderson Domingos">
 
 <br>
 
-<img src="./assets/technologies.svg" width="100%" alt="Tecnologias">
+<!-- 02 · TECH STACK -->
+
+<img src="./assets/technologies.svg" width="100%" alt="Tecnologias utilizadas por Anderson Domingos">
 
 <br>
+
+<!-- 03 · GITHUB ANALYTICS -->
 
 <img src="./assets/analytics.svg" width="100%" alt="GitHub Analytics">
-
-<br>
 
 <div align="center">
 
@@ -54,16 +58,16 @@
 <img
   src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
   width="100%"
-  alt="Histórico de atividade no GitHub de Anderson Domingos"
+  alt="Histórico de atividade de Anderson Domingos no GitHub"
 />
 
 </div>
 
 <br>
 
-<img src="./assets/contributions.svg" width="100%" alt="Contribuições no GitHub">
+<!-- 04 · CONTRIBUTIONS -->
 
-<br>
+<img src="./assets/contributions.svg" width="100%" alt="Contribuições no GitHub">
 
 <div align="center">
 
@@ -87,7 +91,9 @@
 
 <br>
 
-<img src="./assets/footer.svg" width="100%" alt="Footer">
+<!-- FOOTER -->
+
+<img src="./assets/footer.svg" width="100%" alt="Desenvolver, compartilhar e evoluir">
 
 <div align="center">
 
