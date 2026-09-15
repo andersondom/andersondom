@@ -1,0 +1,7 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="b"><stop stop-color="#020617"/><stop offset=".5" stop-color="#071A31"/><stop offset="1" stop-color="#160B31"/></linearGradient><linearGradient id="t"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A855F7"/></linearGradient></defs>
+<rect width="1200" height="180" rx="25" fill="url(#b)"/>
+<text x="600" y="62" text-anchor="middle" fill="url(#t)" font-family="Segoe UI,Arial" font-size="26" font-weight="700">DESENVOLVER • COMPARTILHAR • EVOLUIR</text>
+<text x="600" y="108" text-anchor="middle" fill="#CBD5E1" font-family="Segoe UI,Arial" font-size="19">Sempre em busca de aprender algo novo e construir um futuro melhor através da tecnologia.</text>
+<text x="600" y="143" text-anchor="middle" fill="#64748B" font-family="Segoe UI,Arial" font-size="15">ANDERSON DOMINGOS  //  GITHUB PROFILE</text>
+</svg>

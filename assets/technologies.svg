@@ -1,0 +1,12 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1200" y2="300"><stop stop-color="#030712"/><stop offset="1" stop-color="#0B1026"/></linearGradient><linearGradient id="t"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient></defs>
+<rect width="1200" height="300" rx="25" fill="url(#b)" stroke="#312E81"/>
+<text x="52" y="62" fill="url(#t)" font-family="Segoe UI,Arial" font-size="30" font-weight="700">02. TECH STACK</text>
+<g font-family="Segoe UI,Arial" text-anchor="middle">
+<g><rect x="45" y="105" width="165" height="125" rx="18" fill="#071426" stroke="#2563EB"/><text x="127" y="162" fill="#A78BFA" font-size="30" font-weight="800">C#</text><text x="127" y="198" fill="#CBD5E1" font-size="16">BACKEND</text></g>
+<g><rect x="234" y="105" width="165" height="125" rx="18" fill="#071426" stroke="#4F46E5"/><text x="316" y="162" fill="#C4B5FD" font-size="27" font-weight="800">.NET</text><text x="316" y="198" fill="#CBD5E1" font-size="16">FRAMEWORK</text></g>
+<g><rect x="423" y="105" width="165" height="125" rx="18" fill="#071426" stroke="#06B6D4"/><text x="505" y="162" fill="#67E8F9" font-size="25" font-weight="800">SQL</text><text x="505" y="198" fill="#CBD5E1" font-size="16">SERVER</text></g>
+<g><rect x="612" y="105" width="165" height="125" rx="18" fill="#071426" stroke="#EAB308"/><text x="694" y="162" fill="#FDE047" font-size="26" font-weight="800">JS</text><text x="694" y="198" fill="#CBD5E1" font-size="16">JAVASCRIPT</text></g>
+<g><rect x="801" y="105" width="165" height="125" rx="18" fill="#071426" stroke="#F97316"/><text x="883" y="162" fill="#FDBA74" font-size="25" font-weight="800">HTML</text><text x="883" y="198" fill="#CBD5E1" font-size="16">WEB</text></g>
+<g><rect x="990" y="105" width="165" height="125" rx="18" fill="#071426" stroke="#3B82F6"/><text x="1072" y="162" fill="#93C5FD" font-size="25" font-weight="800">CSS</text><text x="1072" y="198" fill="#CBD5E1" font-size="16">DESIGN</text></g>
+</g></svg>

@@ -1,0 +1,13 @@
+<svg width="1200" height="310" viewBox="0 0 1200 310" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1200" y2="310"><stop stop-color="#030712"/><stop offset="1" stop-color="#0B1026"/></linearGradient><linearGradient id="t"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient></defs>
+<rect width="1200" height="310" rx="25" fill="url(#b)" stroke="#1E3A8A"/>
+<text x="52" y="65" fill="url(#t)" font-family="Segoe UI,Arial" font-size="30" font-weight="700">01. SOBRE MIM</text>
+<text x="52" y="115" fill="#CBD5E1" font-family="Segoe UI,Arial" font-size="20">Profissional de Tecnologia da Informação com mais de 17 anos de experiência,</text>
+<text x="52" y="147" fill="#CBD5E1" font-family="Segoe UI,Arial" font-size="20">atuando no desenvolvimento de aplicações ASP.NET e na gestão de projetos.</text>
+<text x="52" y="196" fill="#7DD3FC" font-family="Segoe UI,Arial" font-size="18">FOCO</text>
+<text x="52" y="228" fill="#F1F5F9" font-family="Segoe UI,Arial" font-size="20">Soluções • Resultados • Aprendizado contínuo • Compartilhamento</text>
+<rect x="850" y="72" width="285" height="166" rx="20" fill="#081529" stroke="#6D28D9"/>
+<text x="992" y="126" text-anchor="middle" fill="#A78BFA" font-family="Segoe UI,Arial" font-size="42" font-weight="800">17+</text>
+<text x="992" y="158" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI,Arial" font-size="18">ANOS DE EXPERIÊNCIA</text>
+<text x="992" y="201" text-anchor="middle" fill="#67E8F9" font-family="Segoe UI,Arial" font-size="17">.NET • C# • SQL Server</text>
+</svg>
