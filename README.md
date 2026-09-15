@@ -2,15 +2,11 @@
 
 <img src="./assets/header.svg" width="100%" alt="Anderson Domingos — .NET Developer">
 
-<br>
+<br><br>
 
-<a href="https://www.linkedin.com/in/anderson-domingos/">
-  <img src="./assets/linkedin.svg" width="230" alt="LinkedIn de Anderson Domingos">
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/andersondom?tab=repositories">
-  <img src="./assets/projects.svg" width="230" alt="Projetos de Anderson Domingos">
-</a>
+<a href="https://www.linkedin.com/in/anderson-domingos/"><img src="./assets/linkedin.svg" width="230" alt="LinkedIn de Anderson Domingos"></a>
+<a href="https://github.com/andersondom?tab=repositories"><img src="./assets/projects.svg" width="230" alt="Projetos de Anderson Domingos"></a>
+
 </div>
 
 <br>
