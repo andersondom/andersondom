@@ -68,7 +68,7 @@
     opacity="0.28"
   />
 
-  <!-- Decorative top line -->
+  <!-- Decorative lines -->
 
   <rect
     x="55"
@@ -133,10 +133,10 @@
     <tspan fill="#22d3ee">  •  </tspan>
     PROJECT MANAGER
     <tspan fill="#8b5cf6">  •  </tspan>
-    TECH ENTHUSIAST
+    TECH INSTRUCTOR
   </text>
 
-  <!-- Tagline container -->
+  <!-- Tagline -->
 
   <rect
     x="350"
@@ -148,8 +148,6 @@
     stroke="url(#borderGradient)"
     stroke-width="2"
   />
-
-  <!-- Tagline -->
 
   <text
     x="600"
